@@ -1,1 +1,1 @@
-display directory contact in long format
+Display current directory contents, including hidden files
