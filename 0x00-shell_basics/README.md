@@ -1,1 +1,1 @@
-change the working directory to home directory
+display directory contact in long format
