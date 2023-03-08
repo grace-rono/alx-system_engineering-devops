@@ -1,1 +1,1 @@
-delete files that end with ~
+welcome/to/school
