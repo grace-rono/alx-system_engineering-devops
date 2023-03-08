@@ -1,1 +1,1 @@
-command that lists the contents of current directory
+change the working directory to home directory
