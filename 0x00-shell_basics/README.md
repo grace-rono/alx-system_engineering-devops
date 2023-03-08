@@ -1,1 +1,1 @@
-deleting a directory
+changing direction to previous directory
