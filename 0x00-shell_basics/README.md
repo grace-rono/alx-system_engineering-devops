@@ -1,1 +1,1 @@
-Display current directory contents, including hidden files
+list contents of directory in long format with user grou id displayed numerically
