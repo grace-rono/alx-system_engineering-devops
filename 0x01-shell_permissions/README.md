@@ -1,1 +1,1 @@
-List of all gourps user is part of
+Effective username of current user
