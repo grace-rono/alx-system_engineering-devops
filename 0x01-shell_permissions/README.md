@@ -1,1 +1,1 @@
-all permissions to other user
+John Doe
