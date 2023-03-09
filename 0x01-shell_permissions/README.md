@@ -1,1 +1,1 @@
-Changing userto betty
+List of all gourps user is part of
