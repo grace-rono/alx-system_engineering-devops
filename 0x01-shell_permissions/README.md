@@ -1,1 +1,1 @@
-Effective username of current user
+New owner
