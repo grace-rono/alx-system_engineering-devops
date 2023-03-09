@@ -1,1 +1,1 @@
-Adding group oermissions to everyone
+all permissions to other user
